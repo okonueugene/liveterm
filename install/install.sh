@@ -5,7 +5,7 @@
 
 set -e -u
 
-eval "git clone 'https://github.com/Cveinnt/LiveTerm.git'"
+eval "git clone 'https://github.com/okonueugene/LiveTerm.git'"
 
 cd LiveTerm
 
